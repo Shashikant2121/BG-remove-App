@@ -1,4 +1,4 @@
-# 🖼️ BG Remove — AI Background Remover
+# 🖼️ BG Remove —  Background Remover
 
 A simple and user-friendly **Background Remover Web Application** that allows users to upload an image and automatically remove its background.
 
