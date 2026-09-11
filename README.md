@@ -81,7 +81,7 @@ cd BG-Remove
 ### 3. Setup Backend
 
 ```bash
-cd backend
+cd BG-Backend
 npm install
 ```
 
@@ -103,7 +103,7 @@ npm run dev
 Open another terminal:
 
 ```bash
-cd frontend
+cd BG-frontend
 npm install
 npm run dev
 ```
